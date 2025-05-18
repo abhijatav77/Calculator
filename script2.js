@@ -23,3 +23,6 @@ arr.forEach(button =>{
     })
 })
 console.log("GitHub");
+
+// I am fixing some bug
+console.log("Bug Fixed");
